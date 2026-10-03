@@ -1,3 +1,4 @@
 My name is Gerald Ebuna.
 I am practicing Git and GitHub.
 I am learning how to use Git commands.
+I am practicing meaningful Git commit messages.
